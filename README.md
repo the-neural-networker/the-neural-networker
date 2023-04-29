@@ -11,9 +11,10 @@
 
 - 💬 Ask me about **Machine Learning, Computer Vision, NLP**
 
-- 📫 How to reach me **abhirooptejomay@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+
+- ✉️ [abhirooptejomay@gmail.com](abhirooptejomay@gmail.com)
+
 <p align="left">
 </p>
 
