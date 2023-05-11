@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhiroop Tejomay</h1>
 <h3 align="center">a CS grad student at IU Bloomington. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-neural-networker&label=Profile%20views&color=0e75b6&style=flat" alt="the-neural-networker" /> </p>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-neural-networker&label=Profile%20views&color=0e75b6&style=flat" alt="the-neural-networker" /> </p> -->
 
 - 🔭 I’m currently working on **Image 2 Prompts**
 
