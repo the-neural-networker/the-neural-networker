@@ -4,7 +4,7 @@
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-neural-networker&label=Profile%20views&color=0e75b6&style=flat" alt="the-neural-networker" /> </p> -->
 
-- 🔭 I’m currently working on **Image 2 Prompts**
+- 🔭 I’m currently working on **NLP With Transformers**
 
 - 🌱 I’m currently learning **NLP, MLOps**
 
