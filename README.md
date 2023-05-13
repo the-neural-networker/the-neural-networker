@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NLP, MLOps**
 
-- 📝 I regularly write articles on [the-neural-networker.github.io](the-neural-networker.github.io)
+- 📝 I regularly write articles on [the-neural-networker.github.io]([the-neural-networker.github.io](https://the-neural-networker.github.io/))
 
 - 💬 Ask me about **Machine Learning, Computer Vision, NLP**
 
